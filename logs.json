@@ -1,0 +1,102 @@
+{"timestamp": "2026-04-25 10:00:01", "event": "LOGIN_FAILED", "details": "Attempt 1 from IP 192.168.1.10"}
+{"timestamp": "2026-04-25 10:00:02", "event": "LOGIN_FAILED", "details": "Attempt 2 from IP 192.168.1.10"}
+{"timestamp": "2026-04-25 10:00:03", "event": "LOGIN_FAILED", "details": "Attempt 3 from IP 192.168.1.10"}{"timestamp": "2026-04-25 20:06:51.253364", "event": "LOGIN_FAILED", "details": "Attempt 1 from 192.168.1.10"}
+{"timestamp": "2026-04-25 20:06:52.333870", "event": "LOGIN_FAILED", "details": "Attempt 2 from 192.168.1.10"}
+{"timestamp": "2026-04-25 20:06:53.035581", "event": "LOGIN_FAILED", "details": "Attempt 3 from 192.168.1.10"}
+{"timestamp": "2026-04-25 20:06:53.737602", "event": "LOGIN_FAILED", "details": "Attempt 4 from 192.168.1.10"}
+{"timestamp": "2026-04-25 20:06:54.450895", "event": "LOGIN_FAILED", "details": "Attempt 5 from 192.168.1.10"}
+{"timestamp": "2026-04-25 20:07:01.295422", "event": "NORMAL_ACTIVITY", "details": "File running..."}
+{"timestamp": "2026-04-25 20:07:02.294922", "event": "MALWARE_EXECUTION", "details": "Suspicious file executed"}
+{"timestamp": "2026-04-25 20:07:07.307655", "event": "NORMAL_ACTIVITY", "details": "Sending data chunk 1"}
+{"timestamp": "2026-04-25 20:07:07.896400", "event": "NORMAL_ACTIVITY", "details": "Sending data chunk 2"}
+{"timestamp": "2026-04-25 20:07:08.506530", "event": "NORMAL_ACTIVITY", "details": "Sending data chunk 3"}
+{"timestamp": "2026-04-25 20:07:09.097918", "event": "NORMAL_ACTIVITY", "details": "Sending data chunk 4"}
+{"timestamp": "2026-04-25 20:07:09.427418", "event": "NORMAL_ACTIVITY", "details": "File running..."}
+{"timestamp": "2026-04-25 20:07:09.709089", "event": "NORMAL_ACTIVITY", "details": "Sending data chunk 5"}
+{"timestamp": "2026-04-25 20:07:10.200604", "event": "DATA_EXFILTRATION", "details": "Large transfer"}
+{"timestamp": "2026-04-25 20:07:10.423343", "event": "MALWARE_EXECUTION", "details": "Suspicious file executed"}
+{"timestamp": "2026-04-25 20:07:15.862829", "event": "NORMAL_ACTIVITY", "details": "Sending data chunk 1"}
+{"timestamp": "2026-04-25 20:07:16.457999", "event": "NORMAL_ACTIVITY", "details": "Sending data chunk 2"}
+{"timestamp": "2026-04-25 20:07:17.054206", "event": "NORMAL_ACTIVITY", "details": "Sending data chunk 3"}
+{"timestamp": "2026-04-25 20:07:17.664190", "event": "NORMAL_ACTIVITY", "details": "Sending data chunk 4"}
+{"timestamp": "2026-04-25 20:07:18.254838", "event": "NORMAL_ACTIVITY", "details": "Sending data chunk 5"}
+{"timestamp": "2026-04-25 20:07:18.722390", "event": "NORMAL_ACTIVITY", "details": "File running..."}
+{"timestamp": "2026-04-25 20:07:18.754635", "event": "DATA_EXFILTRATION", "details": "Large transfer"}
+{"timestamp": "2026-04-25 20:07:19.718988", "event": "MALWARE_EXECUTION", "details": "Suspicious file executed"}
+{"timestamp": "2026-04-25 20:11:43.567930", "event": "LOGIN_FAILED", "details": "[Attempt 1] Failed login from 192.168.1.10"}
+{"timestamp": "2026-04-25 20:11:44.494194", "event": "LOGIN_FAILED", "details": "[Attempt 2] Failed login from 192.168.1.10"}
+{"timestamp": "2026-04-25 20:11:45.209044", "event": "LOGIN_FAILED", "details": "[Attempt 3] Failed login from 192.168.1.10"}
+{"timestamp": "2026-04-25 20:11:45.910185", "event": "LOGIN_FAILED", "details": "[Attempt 4] Failed login from 192.168.1.10"}
+{"timestamp": "2026-04-25 20:11:46.611195", "event": "LOGIN_FAILED", "details": "[Attempt 5] Failed login from 192.168.1.10"}
+{"timestamp": "2026-04-25 20:11:59.967304", "event": "NORMAL_ACTIVITY", "details": "Running suspicious process..."}
+{"timestamp": "2026-04-25 20:12:00.964741", "event": "MALWARE_EXECUTION", "details": "Suspicious file executed"}
+{"timestamp": "2026-04-25 20:23:20.648015", "event": "LOGIN_FAILED", "details": "Login attempt 1 (Wrong Password)"}
+{"timestamp": "2026-04-25 20:23:32.980032", "event": "LOGIN_FAILED", "details": "Login attempt 2 (Wrong Password)"}
+{"timestamp": "2026-04-25 20:23:33.668237", "event": "LOGIN_FAILED", "details": "Login attempt 3 (Wrong Password)"}
+{"timestamp": "2026-04-25 20:23:34.120128", "event": "LOGIN_FAILED", "details": "Login attempt 4 (Wrong Password)"}
+{"timestamp": "2026-04-25 20:23:34.316009", "event": "LOGIN_FAILED", "details": "Login attempt 5 (Wrong Password)"}
+{"timestamp": "2026-04-25 20:23:34.491327", "event": "LOGIN_FAILED", "details": "Login attempt 6 (Wrong Password)"}
+{"timestamp": "2026-04-25 20:23:34.700548", "event": "LOGIN_FAILED", "details": "Login attempt 7 (Wrong Password)"}
+{"timestamp": "2026-04-25 20:23:34.879280", "event": "LOGIN_FAILED", "details": "Login attempt 8 (Wrong Password)"}
+{"timestamp": "2026-04-25 20:23:42.913961", "event": "MALWARE_EXECUTION", "details": "User executed file"}
+{"timestamp": "2026-04-25 20:23:43.898105", "event": "MALWARE_EXECUTION", "details": "User executed file"}
+{"timestamp": "2026-04-25 20:23:44.661459", "event": "MALWARE_EXECUTION", "details": "User executed file"}
+{"timestamp": "2026-04-25 20:23:44.849765", "event": "MALWARE_EXECUTION", "details": "User executed file"}
+{"timestamp": "2026-04-25 20:23:45.022081", "event": "MALWARE_EXECUTION", "details": "User executed file"}
+{"timestamp": "2026-04-25 20:23:45.421340", "event": "MALWARE_EXECUTION", "details": "User executed file"}
+{"timestamp": "2026-04-25 20:23:45.613119", "event": "MALWARE_EXECUTION", "details": "User executed file"}
+{"timestamp": "2026-04-25 20:23:45.890282", "event": "MALWARE_EXECUTION", "details": "User executed file"}
+{"timestamp": "2026-04-25 20:23:46.073474", "event": "MALWARE_EXECUTION", "details": "User executed file"}
+{"timestamp": "2026-04-25 20:23:46.542076", "event": "MALWARE_EXECUTION", "details": "User executed file"}
+{"timestamp": "2026-04-25 20:23:46.737604", "event": "MALWARE_EXECUTION", "details": "User executed file"}
+{"timestamp": "2026-04-25 20:23:53.110661", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 1"}
+{"timestamp": "2026-04-25 20:23:53.111955", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 2"}
+{"timestamp": "2026-04-25 20:23:53.111955", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 3"}
+{"timestamp": "2026-04-25 20:23:53.111955", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 4"}
+{"timestamp": "2026-04-25 20:23:53.111955", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 5"}
+{"timestamp": "2026-04-25 20:23:53.995303", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 1"}
+{"timestamp": "2026-04-25 20:23:53.996300", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 2"}
+{"timestamp": "2026-04-25 20:23:53.996300", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 3"}
+{"timestamp": "2026-04-25 20:23:53.996300", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 4"}
+{"timestamp": "2026-04-25 20:23:53.996300", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 5"}
+{"timestamp": "2026-04-25 20:23:54.191136", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 1"}
+{"timestamp": "2026-04-25 20:23:54.191136", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 2"}
+{"timestamp": "2026-04-25 20:23:54.192388", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 3"}
+{"timestamp": "2026-04-25 20:23:54.192388", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 4"}
+{"timestamp": "2026-04-25 20:23:54.192388", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 5"}
+{"timestamp": "2026-04-25 20:23:54.387484", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 1"}
+{"timestamp": "2026-04-25 20:23:54.387484", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 2"}
+{"timestamp": "2026-04-25 20:23:54.388473", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 3"}
+{"timestamp": "2026-04-25 20:23:54.388473", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 4"}
+{"timestamp": "2026-04-25 20:23:54.388473", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 5"}
+{"timestamp": "2026-04-25 20:23:54.579228", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 1"}
+{"timestamp": "2026-04-25 20:23:54.580300", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 2"}
+{"timestamp": "2026-04-25 20:23:54.581327", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 3"}
+{"timestamp": "2026-04-25 20:23:54.581327", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 4"}
+{"timestamp": "2026-04-25 20:23:54.581327", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 5"}
+{"timestamp": "2026-04-25 20:23:54.778907", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 1"}
+{"timestamp": "2026-04-25 20:23:54.780234", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 2"}
+{"timestamp": "2026-04-25 20:23:54.780234", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 3"}
+{"timestamp": "2026-04-25 20:23:54.780234", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 4"}
+{"timestamp": "2026-04-25 20:23:54.780234", "event": "DATA_EXFILTRATION", "details": "Sending data chunk 5"}
+{"timestamp": "2026-04-25 20:32:35.735177", "event": "LOGIN_FAILED", "details": "Login attempt 1 (Wrong)"}
+{"timestamp": "2026-04-25 20:33:07.851031", "event": "MALWARE_EXECUTION", "details": "File executed"}
+{"timestamp": "2026-04-25 20:33:08.774252", "event": "MALWARE_EXECUTION", "details": "File executed"}
+{"timestamp": "2026-04-25 20:33:09.247294", "event": "MALWARE_EXECUTION", "details": "File executed"}
+{"timestamp": "2026-04-25 20:33:09.442701", "event": "MALWARE_EXECUTION", "details": "File executed"}
+{"timestamp": "2026-04-25 20:33:15.656079", "event": "MALWARE_EXECUTION", "details": "File executed"}
+{"timestamp": "2026-04-25 20:33:23.187414", "event": "DATA_EXFILTRATION", "details": "Sending chunk 1"}
+{"timestamp": "2026-04-25 20:33:23.187414", "event": "DATA_EXFILTRATION", "details": "Sending chunk 2"}
+{"timestamp": "2026-04-25 20:33:23.187414", "event": "DATA_EXFILTRATION", "details": "Sending chunk 3"}
+{"timestamp": "2026-04-25 20:33:23.188414", "event": "DATA_EXFILTRATION", "details": "Sending chunk 4"}
+{"timestamp": "2026-04-25 20:33:23.188414", "event": "DATA_EXFILTRATION", "details": "Sending chunk 5"}
+{"timestamp": "2026-04-25 20:33:24.238757", "event": "DATA_EXFILTRATION", "details": "Sending chunk 1"}
+{"timestamp": "2026-04-25 20:33:24.239758", "event": "DATA_EXFILTRATION", "details": "Sending chunk 2"}
+{"timestamp": "2026-04-25 20:33:24.239758", "event": "DATA_EXFILTRATION", "details": "Sending chunk 3"}
+{"timestamp": "2026-04-25 20:33:24.239758", "event": "DATA_EXFILTRATION", "details": "Sending chunk 4"}
+{"timestamp": "2026-04-25 20:33:24.239758", "event": "DATA_EXFILTRATION", "details": "Sending chunk 5"}
+{"timestamp": "2026-04-25 20:33:25.585627", "event": "DATA_EXFILTRATION", "details": "Sending chunk 1"}
+{"timestamp": "2026-04-25 20:33:25.586625", "event": "DATA_EXFILTRATION", "details": "Sending chunk 2"}
+{"timestamp": "2026-04-25 20:33:25.586625", "event": "DATA_EXFILTRATION", "details": "Sending chunk 3"}
+{"timestamp": "2026-04-25 20:33:25.586625", "event": "DATA_EXFILTRATION", "details": "Sending chunk 4"}
+{"timestamp": "2026-04-25 20:33:25.586625", "event": "DATA_EXFILTRATION", "details": "Sending chunk 5"}
